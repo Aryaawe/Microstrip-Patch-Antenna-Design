@@ -18,13 +18,13 @@ Designed and simulated a low-cost microstrip patch antenna using HFSS for 2.4 GH
 ## 📉 Results
 
 ### S11 Parameter
-![S11](images/s11_plot.png)
+![S11](S11.png)
 
 - Resonant frequency ≈ **2.4 GHz**
 - Return loss ≈ **-16 to -17 dB**
 
 ### Radiation Pattern
-![Radiation](images/radiation_pattern.png)
+![Radiation](radiation pattern 3D.png)
 
 - Nearly omnidirectional pattern
 
