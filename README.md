@@ -14,18 +14,15 @@ Designed and simulated a low-cost microstrip patch antenna using HFSS for 2.4 GH
 - Substrate: (mention your substrate, e.g., FR4)
 - Operating Frequency: 2.4 GHz
 - Feeding Technique: Inset feed
+  ![Microstrip Patch Antenna-Rectanguler](Rect_inset_design.png)
 
 ## 📉 Results
 
 ### S11 Parameter
-![S11](S11.png)
-
 - Resonant frequency ≈ **2.4 GHz**
 - Return loss ≈ **-16 to -17 dB**
 
 ### Radiation Pattern
-![Radiation](radiation pattern 3D.png)
-
 - Nearly omnidirectional pattern
 
 ### Gain
